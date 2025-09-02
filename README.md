@@ -4,6 +4,7 @@
 2. Flip Card : A simple animation using CSS
 3. Toast Notification : Minimal toast notification system using HTML, CSS, and JS. Lightweight, responsive, and easy to integrate.
 4. Drag & Drop : Smooth drag-and-drop experience with responsive styling and real-time feedback. Designed for modern web apps without external libraries.
+5. Password Generator: A random Password genrator.
 
 
 
