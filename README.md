@@ -7,4 +7,3 @@
 5. Password Generator: A random Password genrator.
 6. "A minimalist quote generator that fetches wisdom from the web—one API call at a time."
 
-
