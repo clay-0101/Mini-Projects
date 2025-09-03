@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA:wght@100..400&display=swap');
+
+*{ margin:0;
+    padding:0;
+    box-sizing: border-box;
+font-family: "Playwrite CA", cursive;
+}
+body{
+    height:100vh;
+    background-color: #8D7380;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.quote-box{
+    font-weight: 500;
+    color:#52434a;
+    width:400px;
+    background-color: rgb(255, 255, 245);
+    border-radius: 40px;
+    box-shadow: -15px 15px 20px  rgba(32, 31, 31, 0.649);
+    padding: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#category{
+    font-size: 10px;
+}
+
+#heading{
+ 
+    color:#52434a;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    margin-bottom: 10px;
+   
+}
+.quote{
+    width: 100%;
+    margin: 0 auto 15px;
+    font-size: 15px;
+}
+.author{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: underline;
+    line-height: 1;
+}
+.author::before{
+    content: "";
+    width: 13px;
+    height: 1.2px;
+    background-color: black;
+    vertical-align:middle;
+    display: inline-block;
+    margin-right: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+.btn{
+    height:35px;
+    width: 100px;
+    padding:5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8D7380;
+    border:none;
+    color: white;
+}
+i{
+    margin-right:5px
+}

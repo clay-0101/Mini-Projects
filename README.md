@@ -5,6 +5,6 @@
 3. Toast Notification : Minimal toast notification system using HTML, CSS, and JS. Lightweight, responsive, and easy to integrate.
 4. Drag & Drop : Smooth drag-and-drop experience with responsive styling and real-time feedback. Designed for modern web apps without external libraries.
 5. Password Generator: A random Password genrator.
-
+6. "A minimalist quote generator that fetches wisdom from the web—one API call at a time."
 
 
