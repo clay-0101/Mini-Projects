@@ -7,7 +7,7 @@ async function getQuote() {
     const res = await fetch("https://api.api-ninjas.com/v1/quotes", {
       method: "GET",
       headers: {
-        "X-Api-Key": "vxA7+RMrhwevasKHJmQKtg==qvcHDvYN6GcBwQ5H"
+        // "X-Api-Key": "vxA7+RMrhwevasKHJmQKtg==qvcHDvYN6GcBwQ5H"
       }
     });
     const data = await res.json();
