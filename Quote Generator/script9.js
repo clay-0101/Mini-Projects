@@ -1,3 +1,5 @@
+import API_KEY from './config.js';
+
 let quote = document.querySelector(".quote");
 let category = document.getElementById("category");
 let author = document.querySelector(".author");
